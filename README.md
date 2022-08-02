@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yourbeagle.
+### Hi there 👋 I'm yourbeagle.
 
 
 **yourbeagle/yourbeagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/yourbeagle">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yourbeagle&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yourbeagle&layout=compact&langs_count=8&theme=algolia"/>
 </a>
